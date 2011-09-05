@@ -50,3 +50,4 @@ include(qmlapplicationviewer/qmlapplicationviewer.pri)
 qtcAddDeployment()
 
 RESOURCES += images.qrc
+
