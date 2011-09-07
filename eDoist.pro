@@ -49,5 +49,7 @@ SOURCES += main.cpp
 include(qmlapplicationviewer/qmlapplicationviewer.pri)
 qtcAddDeployment()
 
-RESOURCES += images.qrc
+RESOURCES +=
+
+
 

@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/eDoist/images/logo.gif</file>
-    </qresource>
-</RCC>
