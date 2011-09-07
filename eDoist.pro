@@ -8,7 +8,7 @@ QML_IMPORT_PATH =
 
 VERSION = 1.0.0
 
-#CONFIG += qt-components # This doesnt not work
+#CONFIG += qt-components # This does not work
 
 
 symbian {
