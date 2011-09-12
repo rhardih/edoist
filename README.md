@@ -6,3 +6,8 @@ Symbian^3 QtQuick application for [Todoist](http://todoist.com).
 * **Ovi store page:** http://store.ovi.com/content/183543
 
 The source code is licensed under the MIT License (MIT). See file "LICENSE".
+
+This application has been built with:
+
+ * [Qt/QtQuick](http://qt.gitorious.org)
+ * [Qt Components for Symbian](http://qt.gitorious.org/qt-components)
